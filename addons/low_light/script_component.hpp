@@ -1,5 +1,5 @@
-#define COMPONENT example_addon
-#define COMPONENT_BEAUTIFIED Example_Addon
+#define COMPONENT Low_Light
+#define COMPONENT_BEAUTIFIED Low_Light
 #include "\z\Hob\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL

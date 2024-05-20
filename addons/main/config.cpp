@@ -7,7 +7,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {}; // include external addons here that your whole mod depends on and have your other addons require this one.
+        requiredAddons[] = {"cba_settings"}; // include external addons here that your whole mod depends on and have your other addons require this one.
         authors[] = {"Hobnob"}; // sub array of authors, considered for the specific addon
         author = "Hobnob"; // primary author name, either yours or your team's, considered for the whole mod
         VERSION_CONFIG;

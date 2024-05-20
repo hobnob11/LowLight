@@ -14,4 +14,13 @@ class CfgPatches {
 };
 
 // configs go here
+
+class CfgWeapons
+{
+    class NVGoggles
+    {
+        Hob_Low_Light = 1;
+    };
+};
+
 #include "CfgEventHandlers.hpp"
